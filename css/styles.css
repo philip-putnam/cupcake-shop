@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+span.best {
+  font-weight: bold;
+  font-family: monospace;
+  font-style: oblique;
+  color: green;
+  font-size: 30px;
+}
